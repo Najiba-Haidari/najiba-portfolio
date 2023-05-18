@@ -64,7 +64,7 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
 ## Deployed Link
-- Github Repo URL: 
+- Github Repo URL: https://najiba-haidari.github.io/najiba-portfolio/
 
 ## Installation
 This app needs to be run in either CLI or shell.
