@@ -6,7 +6,7 @@ export default function About() {
     <>
       <div className="body">
         <h1 className="heading">About Me</h1>
-        <img className="image " src={"/images/najibah.jpeg"} alt="najiba" />
+        <img className="image " src={"najiba-portfolio/images/najibah.jpeg"} alt="najiba" />
         <p className="content">
         I'm Najiba Haidari. I'm a passionate coder who chose to pursue a coding and full-stack bootcamp. Ever since my college years, I've had a deep love for coding. Prior to this career switch, I gained 10 years of valuable experience in administrative roles, and I hold a bachelor's degree in finance.
         With my strong background in administration and finance, I bring a unique perspective to my coding journey. I am currently enrolled in a bootcamp, fully dedicated to honing my skills in full-stack development.
