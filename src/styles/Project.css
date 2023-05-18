@@ -1,0 +1,42 @@
+.card:hover{
+    opacity: 0.5;
+    background-color: #00539C;
+    transition: opacity 0.5s ease-in-out
+}
+
+.card{
+    opacity: 1;
+    text-align: center;
+    position: relative;
+    margin:auto;
+    /* background-color: #00539C; */
+    box-shadow: 0 3px 15px rgba(212, 44, 18, 0.4);
+}
+
+.card-img{
+    width: 500px;
+    height: 300px;
+  background-size:cover;
+  position: relative;
+  /* opacity: 1; */
+};
+.card-title{
+    color: rgb(235, 65, 9);
+    opacity: 1;
+ }
+.card-title:hover{
+    text-decoration: none;
+color: rgb(247, 48, 8);
+font-size: 2em;
+opacity: 1;
+}
+
+
+.card-text{
+    color: rgb(234, 22, 7);
+    /* opacity: 1; */
+}
+.card-text:hover{
+    /* color:black; */
+    opacity: 1;
+}

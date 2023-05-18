@@ -1,0 +1,40 @@
+#root{
+    background-color: rgb(242, 245, 248);
+    font-family: 'Times New Roman', Times, serif;
+}
+.body{
+height: 65vh;
+margin: 20px 130px;
+/* background-color: rgb(242, 245, 248); */
+padding: 20px;
+border-radius: 20px;
+}
+.heading{
+    font-size: 35px;
+    text-align: center;
+    color:#00539C;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+    font-weight: bold;
+};
+
+.content{
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: auto auto 30px auto;
+    text-align: center;
+    display: block;
+    justify-content: center;
+}
+.image:hover{
+    transform: scale(1.2);  
+    transition: all .5s ease-in-out;
+}
