@@ -18,13 +18,12 @@ You’ll deploy this application to GitHub Pages. Follow the instructions in the
 ![Resume](./public/images/resume-page.jpg)
 
 ## Table of Contents 
-```md
+
   - [User Story](#use-story)
   - [Acceptance Criteria](#acceptance-criteria)
   - [Deployed Link](#deployed-link)
   - [Installation](#installation)
   - [License](#license)
-```
 
 ## User Story
 
