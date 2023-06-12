@@ -26,6 +26,13 @@ const projects = [
     language: "MVC, Node, Handlebars, SQL, Bulma, Javascript",
   },
   {
+    title: "Workout Wizard App - Project 3",
+    imagePath: "/najiba-portfolio/images/workout-wizard.png",
+    imageUrl: "https://workout-wizard-app-99.herokuapp.com/",
+    alt: "Workout Wizard App",
+    language: "MVC, MERN, React",
+  },
+  {
     title: "Weather Dashboard",
     imagePath: "/najiba-portfolio/images/weather-dashboard.jpeg",
     imageUrl: "https://github.com/Najiba-Haidari/week6-weather-dashboard",
