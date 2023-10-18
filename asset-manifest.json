@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/najiba-portfolio/static/css/main.a63ca754.css",
-    "main.js": "/najiba-portfolio/static/js/main.bb8725a0.js",
+    "main.css": "/najiba-portfolio/static/css/main.6fb5eaeb.css",
+    "main.js": "/najiba-portfolio/static/js/main.d7aad107.js",
+    "static/media/background.png": "/najiba-portfolio/static/media/background.15c5695033a56de6add1.png",
     "index.html": "/najiba-portfolio/index.html",
-    "main.a63ca754.css.map": "/najiba-portfolio/static/css/main.a63ca754.css.map",
-    "main.bb8725a0.js.map": "/najiba-portfolio/static/js/main.bb8725a0.js.map"
+    "main.6fb5eaeb.css.map": "/najiba-portfolio/static/css/main.6fb5eaeb.css.map",
+    "main.d7aad107.js.map": "/najiba-portfolio/static/js/main.d7aad107.js.map"
   },
   "entrypoints": [
-    "static/css/main.a63ca754.css",
-    "static/js/main.bb8725a0.js"
+    "static/css/main.6fb5eaeb.css",
+    "static/js/main.d7aad107.js"
   ]
 }
